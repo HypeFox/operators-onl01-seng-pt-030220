@@ -2,7 +2,8 @@
 ## outputs - is it safe - boolean
 
 # if the speed is < 40 or > 60, say true 
-# 
+# otherwise, say false 
+
 def unsafe?(speed)
 
 end
