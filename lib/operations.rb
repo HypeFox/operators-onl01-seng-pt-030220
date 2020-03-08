@@ -1,5 +1,5 @@
 ## inputs - speed - integer 
-## outputs - 
+## outputs - is it safe - 
 def unsafe?(speed)
 
 end
