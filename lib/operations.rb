@@ -5,7 +5,9 @@
 # otherwise, say false 
 
 def unsafe?(speed)
-
+  if speed 
+    
+  end 
 end
 
 
